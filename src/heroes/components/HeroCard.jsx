@@ -6,6 +6,8 @@ export const HeroCard = ({ id,
     first_appearance,
     characters, }) => {
 
+        const heroImageUrl = ``;
+
     return (
         <>
             <div className="col">
